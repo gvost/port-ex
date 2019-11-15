@@ -1,0 +1,21 @@
+body {
+  background: white;
+}
+h1 {
+  margin: 0 auto;
+}
+section {
+  height: 100vh;
+  background: pink;
+}
+.example {
+  transition: all 500ms;
+  position: relative;
+  top: 0px;
+}
+.hide {
+  opacity: 0;
+}
+.move-up {
+  top: 400px;
+}
